@@ -46,5 +46,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukejejoseph&show_icons=true&locale=en&layout=compact" alt="ukejejoseph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukejejoseph&show_icons=true&locale=en" alt="ukejejoseph" /></p>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splax-s&theme=nord_dark)
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukejejoseph&theme=dark" alt="ukejejoseph" /></p>
