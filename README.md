@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ukejejoseph1@gmail.com**
 
-- ⚡ Fun fact **I am adaptable and love learning new technologies and looking forward to creating my own ai tool soon**
+- ⚡ Fun fact **I am experienced,crtical problem thinker  and love learning new technologies and currently to creating my own ai tool soon**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
