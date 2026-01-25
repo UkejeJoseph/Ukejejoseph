@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Ukeje</h1></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<h3 align="center">Assertive and Adaptable Full Stack Developer with experience in frontend and backend development, and currently expanding skills in cloud technologies and DevOps. Passionate about building scalable, efficient systems and improving development workflows. Focused on creating solutions that simplify complex problems and enhance user experiences.</h3></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="center">Assertive and Adaptable Full Stack Software Engineer with experience in frontend and backend development, and currently expanding skills in cloud technologies and DevOps. Passionate about building scalable, efficient systems and improving development workflows. Focused on creating solutions that simplify complex problems and enhance user experiences.</h3></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukejejoseph&label=Profile%20views&color=0e75b6&style=flat" alt="ukejejoseph" /> </p>
 
