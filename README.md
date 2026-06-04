@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joseph Ukeje</h1></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<h3 align="center">Assertive and Adaptable Full Stack Software Engineer with experience in frontend and backend development, and currently expanding skills in cloud technologies and DevOps. Passionate about building scalable, efficient systems and improving development workflows. Focused on creating solutions that simplify complex problems and enhance user experiences.</h3></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="center">Senior Full-Stack Software Engineer with around 5 years of hands-on experience building and maintaining complex, production-grade
+systems across fintech, payments, and enterprise SaaS platforms. Deep expertise in Java 21 and Spring Boot 3.x – including low-level
+engineering with Spring AOP/AspectJ, Spring WebFlux, Netty TCP servers, and gRPC-Java – combined with advanced proficiency
+in Node.js, TypeScript, Express.js, and Go (Gin). Proven track record integrating with financial messaging standards (ISO 20022,
+SWIFT), IBM MQ, RabbitMQ, and GraphQL (Apollo). Experienced with PostgreSQL, Oracle, MongoDB, MySQL, Redis,
+JDBCTemplate, and Flyway. Strong background in observability (Prometheus, Grafana, Micrometer), cloud infrastructure (AWS
+EKS, Kubernetes, Docker), security hardening, and developer-facing SDK documentation. Thrives working independently on
+technically deep, end-to-end projects and collaborating across diverse engineering teams.</h3></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukejejoseph&label=Profile%20views&color=0e75b6&style=flat" alt="ukejejoseph" /> </p>
 
