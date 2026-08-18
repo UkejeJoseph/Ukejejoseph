@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Ukeje</h1></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<h3 align="center">Senior Full-Stack Software Engineer with around 5 years of hands-on experience building and maintaining complex, production-grade
+<h3 align="center">Senior Full-Stack Software Engineer with around 6 years of hands-on experience building and maintaining complex, production-grade
 systems across fintech, payments, and enterprise SaaS platforms. Deep expertise in Java 21 and Spring Boot 3.x – including low-level
 engineering with Spring AOP/AspectJ, Spring WebFlux, Netty TCP servers, and gRPC-Java – combined with advanced proficiency
 in Node.js, TypeScript, Express.js, and Go (Gin). Proven track record integrating with financial messaging standards (ISO 20022,
