@@ -21,7 +21,7 @@ With around 6 years of hands-on experience building and maintaining complex, pro
 ## Current Focus
 - 🔭 I’m currently working on **different project stay active and tuned decentralized app is coming soon**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🌱 I’m currently working  **Machine learning /AI ,Golang,Pytorch , C# and .Net framework/projects**
+- 🌱 I’m currently working  **Machine learning /AI ,Golang,Pytorch , Java/SpringBoot Framework , C# and .Net framework/projects**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
