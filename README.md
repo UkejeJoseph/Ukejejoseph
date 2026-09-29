@@ -10,7 +10,6 @@ technically deep, end-to-end projects and collaborating across diverse engineeri
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukejejoseph&label=Profile%20views&color=0e75b6&style=flat" alt="ukejejoseph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukejejoseph" alt="ukejejoseph" /></a> </p>
 
 - 🔭 I’m currently working on **different project stay active and tuned decentralized app is coming soon**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -136,13 +135,6 @@ Sunday                   979 commits         █████░░░░░░�
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ukejejosep5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ukejejosep5" /></a><a href="https://ko-fi.com/ukejejosep5"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ukejejosep5" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UkejeJoseph&show_icons=true&locale=en&layout=compact" alt="UkejeJoseph" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UkejeJoseph&show_icons=true&locale=en" alt="UkejeJoseph" /></p>
-<div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UkejeJoseph)
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UkejeJoseph&theme=dark" alt="ukejejoseph" /></p>
 
 ---
 
