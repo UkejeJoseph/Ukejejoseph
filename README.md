@@ -75,11 +75,6 @@ I focus on financially correct, high-throughput services: transactional APIs, as
 
 ---
 
-<details>
-<summary><strong>Additional profile details, technologies, links, and GitHub activity</strong></summary>
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm Joseph Ukeje</h1></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <h3 align="center">Senior Full-Stack Software Engineer with around 6 years of hands-on experience building and maintaining complex, production-grade
 systems across fintech, payments, and enterprise SaaS platforms. Deep expertise in Java 21 and Spring Boot 3.x – including low-level
@@ -225,5 +220,3 @@ Sunday                   979 commits         █████░░░░░░�
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UkejeJoseph)
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UkejeJoseph&theme=dark" alt="ukejejoseph" /></p>
-
-</details>
