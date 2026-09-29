@@ -1,80 +1,3 @@
-<div align="center">
-
-# Joseph Ukeje
-
-### Senior Backend & Full-Stack Engineer
-
-**Fintech · Payments · Distributed Systems · 6+ Years**
-
-I build backend systems that remain correct under concurrency, recover cleanly from failure, and scale across payment, banking, and enterprise workflows. My core work spans Java/Spring Boot, Node.js/NestJS, PostgreSQL, Kafka, Redis, Docker, Kubernetes, and cloud platforms.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolionew-puce.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-ukeje-8a0300220)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukejejoseph1@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@josephukeje8068)
-
-</div>
-
----
-
-## What I Work On
-
-I focus on financially correct, high-throughput services: transactional APIs, asynchronous workflows, integration boundaries, observability, resilience, and production incident recovery. I also build product-facing systems across TypeScript/Node.js and React where a workflow needs to be owned end to end.
-
----
-
-## Featured Work
-
-### 💱 [StableX — Crypto Wallet & Exchange Platform](https://github.com/UkejeJoseph/StableXv1)
-
-> A crypto exchange and wallet product focused on price discovery, swaps, transaction integrity, and responsive user-facing workflows.
-
-**Architecture focus:** integrates market-data and exchange workflows with a service-oriented backend, persistence, and blockchain-facing operations. The product is a practical place to apply financial correctness, asynchronous processing, and secure user flows.
-
-`Java` `Spring Boot` `Node.js` `gRPC` `PostgreSQL` `Solidity` `Docker` `React` `TypeScript`
-
----
-
-### 🚕 [Java Event-Driven Platform](https://github.com/UkejeJoseph/java-event-driven-platform)
-
-> A Java 21/Spring Boot modular platform for multi-tenant mobility, dispatch, payments, ledgering, and settlements.
-
-**Architecture focus:** PostgreSQL/PostGIS is the system of record; Redis supports dispatch and live indexes; OIDC secures access; transactional outbox patterns make domain-event delivery reliable; payment, ledger, settlement, and webhook flows model financial state explicitly.
-
-`Java 21` `Spring Boot` `PostgreSQL` `PostGIS` `Redis` `OIDC` `Outbox` `Payments`
-
----
-
-### 🏦 [Core Banking Interface](https://github.com/UkejeJoseph/nip-core-banking-interface)
-
-> A banking-integration codebase for working through the boundary between core systems, financial messages, and downstream services.
-
-**Architecture focus:** explores the operational concerns behind banking integration—validation, traceability, error handling, and resilient processing—rather than treating integrations as simple request/response calls.
-
-`Java` `Spring Boot` `REST APIs` `Financial Integrations` `PostgreSQL`
-
----
-
-### 📨 [Enterprise .NET Messaging](https://github.com/UkejeJoseph/enterprise-dotnet-messaging)
-
-> An attributed open-source architecture study of a .NET CQRS and brokered-messaging platform with durable delivery patterns.
-
-**Architecture focus:** inbox/outbox reliability, retries, circuit breakers, RabbitMQ, Azure Service Bus, EF Core/Cosmos DB, and OpenTelemetry-compatible diagnostics. Original project and licence are retained in the repository provenance.
-
-`C#` `.NET 10` `CQRS` `RabbitMQ` `Azure Service Bus` `EF Core` `OpenTelemetry`
-
----
-
-## Core Stack
-
-**Backend & Systems:** Java 21/17/8 · Spring Boot · Node.js · NestJS · TypeScript · C#/.NET · Go (learning) · REST/gRPC · Kafka · RabbitMQ · Redis
-
-**Data & Reliability:** PostgreSQL · MySQL · Oracle · MongoDB · JPA/Hibernate · idempotency · transactions · event-driven workflows · retries · observability
-
-**Cloud & Delivery:** Docker · Kubernetes · AWS · Azure · GitHub Actions · Jenkins · Terraform · Prometheus · Grafana
-
----
-
 <h1 align="center">Hi 👋, I'm Joseph Ukeje</h1></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <h3 align="center">Senior Full-Stack Software Engineer with around 6 years of hands-on experience building and maintaining complex, production-grade
 systems across fintech, payments, and enterprise SaaS platforms. Deep expertise in Java 21 and Spring Boot 3.x – including low-level
@@ -220,3 +143,110 @@ Sunday                   979 commits         █████░░░░░░�
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UkejeJoseph)
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UkejeJoseph&theme=dark" alt="ukejejoseph" /></p>
+
+---
+
+<div align="center">
+
+# Joseph Ukeje
+
+### Senior Backend & Full-Stack Engineer
+
+**Fintech · Payments · Distributed Systems · 6+ Years**
+
+I build backend systems that remain correct under concurrency, recover cleanly from failure, and scale across payment, banking, and enterprise workflows. My core work spans Java/Spring Boot, Node.js/NestJS, PostgreSQL, Kafka, Redis, Docker, Kubernetes, and cloud platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolionew-puce.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-ukeje-8a0300220)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukejejoseph1@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@josephukeje8068)
+
+</div>
+
+---
+
+## What I Work On
+
+I focus on financially correct, high-throughput services: transactional APIs, asynchronous workflows, integration boundaries, observability, resilience, and production incident recovery. I also build product-facing systems across TypeScript/Node.js and React where a workflow needs to be owned end to end.
+
+---
+
+## Featured Work
+
+### 💱 [StableX — Crypto Wallet & Exchange Platform](https://github.com/UkejeJoseph/StableXv1)
+
+> A crypto exchange and wallet product focused on price discovery, swaps, transaction integrity, and responsive user-facing workflows.
+
+**Architecture focus:** integrates market-data and exchange workflows with a service-oriented backend, persistence, and blockchain-facing operations. The product is a practical place to apply financial correctness, asynchronous processing, and secure user flows.
+
+`Java` `Spring Boot` `Node.js` `gRPC` `PostgreSQL` `Solidity` `Docker` `React` `TypeScript`
+
+---
+
+### 🚕 [Java Event-Driven Platform](https://github.com/UkejeJoseph/java-event-driven-platform)
+
+> A Java 21/Spring Boot modular platform for multi-tenant mobility, dispatch, payments, ledgering, and settlements.
+
+**Architecture focus:** PostgreSQL/PostGIS is the system of record; Redis supports dispatch and live indexes; OIDC secures access; transactional outbox patterns make domain-event delivery reliable; payment, ledger, settlement, and webhook flows model financial state explicitly.
+
+`Java 21` `Spring Boot` `PostgreSQL` `PostGIS` `Redis` `OIDC` `Outbox` `Payments`
+
+---
+
+### 🏦 [Core Banking Interface](https://github.com/UkejeJoseph/nip-core-banking-interface)
+
+> A banking-integration codebase for working through the boundary between core systems, financial messages, and downstream services.
+
+**Architecture focus:** explores the operational concerns behind banking integration—validation, traceability, error handling, and resilient processing—rather than treating integrations as simple request/response calls.
+
+`Java` `Spring Boot` `REST APIs` `Financial Integrations` `PostgreSQL`
+
+---
+
+### 📨 [Enterprise .NET Messaging](https://github.com/UkejeJoseph/enterprise-dotnet-messaging)
+
+> An attributed open-source architecture study of a .NET CQRS and brokered-messaging platform with durable delivery patterns.
+
+**Architecture focus:** inbox/outbox reliability, retries, circuit breakers, RabbitMQ, Azure Service Bus, EF Core/Cosmos DB, and OpenTelemetry-compatible diagnostics. Original project and licence are retained in the repository provenance.
+
+`C#` `.NET 10` `CQRS` `RabbitMQ` `Azure Service Bus` `EF Core` `OpenTelemetry`
+
+---
+
+### 🐍 [Python Knowledge Platform](https://github.com/UkejeJoseph/enterprise-python-knowledge-platform)
+
+> An attributed Python/Django architecture study of a production-style knowledge platform with immutable revisions, word-level comparisons, search, citations, and collaborative editing workflows.
+
+**Architecture focus:** Django REST Framework APIs, PostgreSQL full-text search, immutable revision history, documented design decisions, automated tests, and a React/TypeScript client. Original project and licence are retained in the repository provenance.
+
+`Python 3.13` `Django 5.2` `Django REST Framework` `PostgreSQL` `React 19` `TypeScript` `Pytest`
+
+---
+
+### 🤖 [ShapeAI Python Machine Learning](https://github.com/UkejeJoseph/ShapeAI_Python_Machine_Learning)
+
+> A hands-on Python and machine-learning project completed through the DevTown/ShapeAI bootcamp, documenting practical experimentation with foundational ML workflows.
+
+**Learning focus:** Python-based data preparation, introductory model development, TensorFlow fundamentals, and notebook-driven experimentation.
+
+`Python` `Jupyter Notebook` `Machine Learning` `TensorFlow` `Data Analysis`
+
+---
+
+### 🔄 [Financial Reconciliation in Go](https://github.com/UkejeJoseph/financial-reconciliation-go)
+
+> A maintained open-source fork of Formance Reconciliation for comparing ledger transaction flows and external cash-pool data to surface financial discrepancies.
+
+**Architecture focus:** ledger-to-provider reconciliation, financial-integrity checks, discrepancy investigation, audit workflows, and Go service design. The repository retains its upstream history and attribution.
+
+`Go` `Financial Ledgers` `Reconciliation` `REST APIs` `Auditability`
+
+---
+
+## Core Stack
+
+**Backend & Systems:** Java 21/17/8 · Spring Boot · Node.js · NestJS · TypeScript · C#/.NET · Go (learning) · REST/gRPC · Kafka · RabbitMQ · Redis
+
+**Data & Reliability:** PostgreSQL · MySQL · Oracle · MongoDB · JPA/Hibernate · idempotency · transactions · event-driven workflows · retries · observability
+
+**Cloud & Delivery:** Docker · Kubernetes · AWS · Azure · GitHub Actions · Jenkins · Terraform · Prometheus · Grafana
