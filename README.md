@@ -186,7 +186,7 @@ SQLDeps and Lab Lens preserve their original upstream authors and licences. The 
 
 ## Engineering Stack
 
-Technologies across my professional work, current language-specific resumes, and project repositories.
+Technologies across my professional engineering work and project repositories.
 
 | Area | Technologies and engineering practices |
 | --- | --- |
