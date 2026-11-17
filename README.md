@@ -139,8 +139,13 @@ The first four are development copies of Israel Iyonsi's libraries. Enterprise .
 
 ### Go — Libraries, Retrieval & Client SDKs
 
+Private payment implementations are marked explicitly below; their public case studies remain available. Reusable public libraries retain their own repository and licence details.
+
 | Repository | Scope |
 | --- | --- |
+| **[paywire-go](https://github.com/UkejeJoseph/paywire-go)** | Original, dependency-free Go library for bounded TCP framing and typed request/response correlation, with context cancellation, capacity limits and concurrent completion. **Public MIT library; v0.1.0.** |
+| **[IRIS — Go Central Switch](https://github.com/UkejeJoseph/nip-core-banking-interface/tree/feature/go-iris-transfer-engine/implementations/go/iris-switch)** | Persistent mTLS/TCP, signed ISO 20022 XML, participant routing, a durable journal/outbox, idempotency and status recovery. Single-node implementation; settlement accounting remains outside its scope. **Private source.** [Public case study](https://porfolionew-puce.vercel.app/projects/iris-payment-gateway). |
+| **[PRM — Go Risk Integration Client](https://github.com/UkejeJoseph/nip-core-banking-interface/tree/feature/go-iris-transfer-engine/implementations/go/prm-client)** | Typed EventRiskAnalyze requests, correlated responses, explicit risk dispositions, HTTPS, cancellation, bounded in-flight requests and fixed worker-pool batches. **Private integration client; not the vendor scoring engine.** [Public case study](https://porfolionew-puce.vercel.app/projects/prm-risk-engine). |
 | **[llmgate](https://github.com/UkejeJoseph/llmgate)** | Provider-agnostic LLM client with routing, fallback, retries, adaptive concurrency limits, caching, budgets, and response-cost tracking. |
 | **[pdfgrab](https://github.com/UkejeJoseph/pdfgrab)** | PDF extraction preserving character, word, line, and table-cell coordinates for structured processing and precise citations. |
 | **[vectorless-engine](https://github.com/UkejeJoseph/vectorless-engine)** | Document-map and section-tree retrieval with page selection, evidence retrieval, and line-level PDF citations. |
